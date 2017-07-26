@@ -68,6 +68,10 @@ a {
 	height: 500px;
 }
 
+#bigger {
+	height: 1000px;
+}
+
 
 .inner {
 	width: 960px;
