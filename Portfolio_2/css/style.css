@@ -30,6 +30,10 @@ h2 {
 	font-size: 24px;
 }
 
+h3 {
+	padding: 0 0 18px 0;
+}
+
 
 p {
 	margin: 0 0 15px 0;
@@ -55,8 +59,6 @@ a {
 
 }
 
-
-
 .section {
 	width: 100%;
 	max-width: 1600px;
@@ -79,9 +81,10 @@ a {
 	position: relative;
 	min-height: 50px;
 	padding:30px 0;
-	font-size: 18px;
+	font-size: 15px;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
+	text-align: center;
 }
 
 .inner:after {
@@ -131,6 +134,10 @@ a {
 }
 
 .title {
+	text-align: left;
+}
+
+.job {
 	text-align: left;
 }
 
