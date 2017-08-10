@@ -187,3 +187,21 @@ a {
 .s6 {
 	background: #161616;
 }
+
+/* COLUMNS */
+
+.col-half {
+	width: 45%;
+	float: left;
+}
+
+.col-half-last {
+	width: 55%;
+	float: right;
+}
+
+.column-container {
+	content: "";
+	display: block;
+	clear: both;
+}
