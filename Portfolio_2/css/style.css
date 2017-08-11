@@ -193,11 +193,13 @@ a {
 .col-half {
 	width: 45%;
 	float: left;
+	padding-bottom: 50px;
 }
 
 .col-half-last {
 	width: 55%;
 	float: right;
+	padding-bottom: 50px;
 }
 
 .column-container {
