@@ -6,8 +6,6 @@ body {
 	color: #e5e5e5;
 	font-size: 12px;
 	background:#bfbfbf;
-
-
 }
 
 
@@ -42,7 +40,7 @@ p {
 }
 
 a {
-	color: #3e3e3e;
+	color: #000000;
 }
 
 
@@ -58,7 +56,6 @@ a {
 	position: relative;
 	margin: 0 auto;
 	padding: 0;
-
 }
 
 .section {
@@ -74,6 +71,14 @@ a {
 
 #bigger {
 	height: 2500px;
+}
+
+.site-info {
+	font-size: 13px;
+}
+
+.column-container img {
+	box-shadow: 10px 10px 5px #888888;
 }
 
 
@@ -157,7 +162,7 @@ a {
 }
 
 .s1 {
-	background:#48c5c5;
+	background:#b1e7e7;
 }
 
 .contact-section p {
@@ -177,25 +182,23 @@ a {
 }
 
 .s2 {
-	background: #43b5b5;
+	background: #b1e7e7;
 }
 .s2 a {
 	color: #000;
 }
 
 .s3 {
-	background: #48c5c5;
+	background: #b1e7e7;
 }
 
 
 .s4 {
-	background: #5aa3c4;
+	background: #b1e7e7;
 }
 
-
-
 .s5 {
-	background: #43b5b5;
+	background: #b1e7e7;
 	color: #3d3d3d;
 }
 
@@ -212,7 +215,7 @@ a {
 }
 
 .col-half-last {
-	width: 55%;
+	width: 46%;
 	float: right;
 	padding-bottom: 50px;
 }
