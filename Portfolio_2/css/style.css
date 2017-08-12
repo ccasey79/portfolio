@@ -23,6 +23,7 @@ h1 {
 	letter-spacing: -1px;
 	line-height: 100%;
 	text-align: center;
+	padding: 20px 0 40px 0;
 }
 
 
@@ -157,9 +158,23 @@ a {
 .s1 {
 	background:#184764;
 	color:#fff;
-
 }
 
+.contact-section p {
+	padding: 3px;
+}
+
+#copyright {
+	padding-top: 20px;
+}
+
+.contactButtons a {
+	padding: 20px;
+}
+
+#email {
+	padding-bottom: 25px;
+}
 
 .s2 {
 	background: #313131;
