@@ -81,6 +81,10 @@ a {
 	box-shadow: 10px 10px 5px #888888;
 }
 
+.col-half-last p {
+	font-size: 13px;
+}
+
 
 .inner {
 	width: 960px;
