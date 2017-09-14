@@ -155,50 +155,100 @@ a {
 	text-align: left;
 	font-family: 'Aldrich', sans-serif;
   font-weight: 300;
-	-webkit-animation-duration: 2s;
-	-webkit-animation-delay: 1s;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+
 }
 
 .secondLetter {
 	text-align: left;
 	font-family: 'Aldrich', sans-serif;
   font-weight: 300;
-	-webkit-animation-duration: 2s;
-	-webkit-animation-delay: 2s;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+
 }
 
 .thirdLetter {
 	text-align: left;
 	font-family: 'Aldrich', sans-serif;
   font-weight: 300;
-	-webkit-animation-duration: 2s;
-	-webkit-animation-delay: 3s;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+
 }
 
 .fourthLetter {
 	text-align: left;
 	font-family: 'Aldrich', sans-serif;
   font-weight: 300;
-	-webkit-animation-duration: 2s;
-	-webkit-animation-delay: 4s;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-delay: 1s;
 }
 
 .fifthLetter {
 	text-align: left;
 	font-family: 'Aldrich', sans-serif;
   font-weight: 300;
-	-webkit-animation-duration: 2s;
-	-webkit-animation-delay: 5s;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-delay: 1s;
 }
 
+.sixthLetter {
+	text-align: left;
+	font-family: 'Aldrich', sans-serif;
+  font-weight: 300;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-delay: 1s;
+}
 
+.seventhLetter {
+	text-align: left;
+	font-family: 'Aldrich', sans-serif;
+  font-weight: 300;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-delay: 2s;
+}
 
+.eighthLetter {
+	text-align: left;
+	font-family: 'Aldrich', sans-serif;
+  font-weight: 300;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-delay: 2s;
+}
+
+.ninthLetter {
+	text-align: left;
+	font-family: 'Aldrich', sans-serif;
+  font-weight: 300;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-delay: 2s;
+}
+
+.surname {
+	margin-left: 25px;
+	font-family: 'Aldrich', sans-serif;
+	font-weight: 300;
+	font-size: 60px;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-delay: 3s;
+}
 
 .job-title {
   text-align: left;
 	font-family: 'Aldrich', sans-serif;
   font-weight: 300;
-	margin-top: 50px;
+	font-size: 25px;
+	margin-top: 75px;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-delay: 4s;
 }
 
 
@@ -207,7 +257,7 @@ a {
 .sTop {
   min-height: 130px;
   padding: 50px 0;
-  height: 300px;
+  height: 230px;
   color: #3d3d3d;
   background: linear-gradient(253deg, #0cc898, #1797d2, #864fe1);
   background-size: 300% 300%;
